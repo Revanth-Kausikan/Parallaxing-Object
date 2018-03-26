@@ -16,7 +16,7 @@ Add the script found in the root directory of the project "jbParallaxObj.js" to 
 ````
 
 
-Add the class ```HTML jbParallaxObj ``` and the ```HTML parallaxSpeed``` attribute to the HTML elements you want to parallax. The value of the ```HTML parallaxSpeed``` controls the speed of the HTML elements. Higher the value, higher the speed.
+Add the class `jbParallaxObj` and the `parallaxSpeed` attribute to the HTML elements you want to parallax. The value of the `parallaxSpeed` controls the speed of the HTML elements. Higher the value, higher the speed.
 
 
 Example:
