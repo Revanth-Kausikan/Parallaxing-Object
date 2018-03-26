@@ -11,15 +11,19 @@ This project is licensed under the terms of the GNU GPLv3 license. A copy of the
 ## How to
 Add the script found in the root directory of the project "jbParallaxObj.js" to your HTML document.
 
-`<script defer src="jbParallaxObj.js"></script>`
+```HTML
+<script defer src="jbParallaxObj.js"></script>
+````
 
 
-Add the class `jbParallaxObj` and the `parallaxSpeed` attribute to the HTML elements you want to parallax. The value of the `parallaxSpeed` controls the speed of the HTML elements. Higher the value, higher the speed.
+Add the class ```HTML jbParallaxObj ``` and the ```HTML parallaxSpeed``` attribute to the HTML elements you want to parallax. The value of the ```HTML parallaxSpeed``` controls the speed of the HTML elements. Higher the value, higher the speed.
 
 
 Example:
 
-`<div class="jbParallaxObj" parallaxSpeed="20">Just Parallaxing</div>`
+```HTML
+<div class="jbParallaxObj" parallaxSpeed="20">Just Parallaxing</div>
+```
 
 ## Support
 E-mail: [jagannathbhat1998@gmail.com](mailto:jagannathbhat1998@gmail.com)
